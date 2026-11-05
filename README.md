@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence, where I’m developing a strong foundation in machine learning, data science, and intelligent systems.<br>I enjoy working on hands-on projects, exploring real-world applications of AI, and continuously improving my problem-solving and analytical skills.<br>My interests include building data-driven solutions, experimenting with AI models, and learning emerging technologies in the AI ecosystem.<br><br><br>**Tech Interests**<br><br>Machine Learning & Deep Learning<br><br>Data Analysis & Visualization<br><br>Python & AI Libraries<br><br>Real-world AI Applications
+I have completed a Bachelor of Technology (B.Tech) in Artificial Intelligence, where I’m developing a strong foundation in machine learning, data science, and intelligent systems.<br>I enjoy working on hands-on projects, exploring real-world applications of AI, and continuously improving my problem-solving and analytical skills.<br>My interests include building data-driven solutions, experimenting with AI models, and learning emerging technologies in the AI ecosystem.<br><br><br>**Tech Interests**<br><br>Machine Learning & Deep Learning<br><br>Data Analysis & Visualization<br><br>Python & AI Libraries<br><br>Real-world AI Applications
 
 
 ## 🌐 Socials:
